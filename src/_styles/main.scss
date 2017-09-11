@@ -1,0 +1,20 @@
+html,
+body {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	background: #ffc600;
+}
+
+.container {
+	max-width: 1160px;
+	margin: 0 auto;
+	padding: 25px;
+}
